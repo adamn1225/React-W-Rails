@@ -24,7 +24,6 @@ gem 'jbuilder', '~> 2.7'
 gem "unicorn"
 gem "thin"
 gem "passenger"
-gem "sqlite3"
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
